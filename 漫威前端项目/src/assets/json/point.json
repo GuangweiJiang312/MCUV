@@ -1,0 +1,3350 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "Steve Rogers出生",
+                "rank": 1,
+                "date": "1918-07-04",
+                "place":"纽约布鲁克林区",
+                "movie":"美国队长1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9907,
+                    40.6369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "第四次参军失败",
+                "rank": 1,
+                "date": "1943-01-01",
+                "place":"纽约某处",
+                "movie":"美国队长1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0060152,
+                    40.7127281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "接受超级士兵实验成功",
+                "rank": 2,
+                "date": "1943-06-14",
+                "place":"布鲁克林区某古董店",
+                "movie":"美国队长1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9239,
+                    40.6613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "从Howard Stark处获得振金盾牌",
+                "rank": 2,
+                "date": "1943-11-15",
+                "place":"意大利罗马某处",
+                "movie":"美国队长1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4846,
+                    41.8832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "攻入九头蛇基地与红骷髅激战，掉入大海被冰封",
+                "rank": 2,
+                "date": "1945-03-04",
+                "place":"北极北冰洋",
+                "movie":"美国队长1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.45451,
+                    45.46013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "神盾局打捞出被冰封的Steve",
+                "rank": 1,
+                "date": "2011-07-19",
+                "place":"北极北冰洋",
+                "movie":"美国队长1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.996,
+                    77.252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "Steve Rogers苏醒，美国队长回归",
+                "rank": 2,
+                "date": "2012-04-15",
+                "place":"纽约某处",
+                "movie":"美国队长1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.98603,
+                    40.75738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "纽约之战",
+                "rank": 2,
+                "date": "2012-05-05",
+                "place":"纽约中央火车站",
+                "movie":"复仇者联盟1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97765,
+                    40.75212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "遇见Sam Wilson(猎鹰)",
+                "rank": 1,
+                "date": "2014-03-31",
+                "place":"华盛顿纪念碑旁",
+                "movie":"美国队长2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.04899,
+                    38.88926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "从Nick Fury得知神盾局被九头蛇渗入",
+                "rank": 1,
+                "date": "2014-04-01",
+                "place":"美国队长家",
+                "movie":"美国队长2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.013222,
+                    38.913611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "在维顿利哈营地发现神盾局被九头蛇大规模深渗入",
+                "rank": 1,
+                "date": "2014-04-02",
+                "place":"新泽西州维顿利哈营地",
+                "movie":"美国队长2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4379,
+                    40.0761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "与冬兵大战",
+                "rank": 2,
+                "date": "2014-04-04",
+                "place":"华盛顿神盾局总部旁",
+                "movie":"美国队长2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0617,
+                    38.8932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "复联摧毁索科维亚九头蛇基地，获得洛基权杖",
+                "rank": 1,
+                "date": "2015-04-28",
+                "place":"索科维亚九头蛇基地",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3207,
+                    45.7383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "在非洲被绯红女巫幻觉控制",
+                "rank": 1,
+                "date": "2015-05-03",
+                "place":"南非约翰内斯堡某工厂",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0536,
+                    -26.2065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "前往韩国首尔阻止奥创获得摇篮",
+                "rank": 1,
+                "date": "2015-05-04",
+                "place":"韩国首尔某研究所",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.94392,
+                    37.53657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "复联战胜奥创，索科维亚被毁",
+                "rank": 2,
+                "date": "2015-05-06",
+                "place":"索科维亚",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3196649,
+                    45.7370885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "阻止交叉骨的袭击，绯红女巫误伤平民",
+                "rank": 1,
+                "date": "2016-05-03",
+                "place":"尼日利亚拉各斯",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3941795,
+                    6.4550575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "参加Peggy Carter葬礼",
+                "rank": 1,
+                "date": "2016-06-04",
+                "place":"英国伦敦",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1276474,
+                    51.5073219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "帮助冬兵拜托军队围捕",
+                "rank": 1,
+                "date": "2016-06-09",
+                "place":"罗马尼亚布加勒斯特",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1027202,
+                    44.4361414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "复仇者联盟内战",
+                "rank": 2,
+                "date": "2016-06-10",
+                "place":"德国莱比锡哈雷机场",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2298,
+                    51.4213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "在西伯利亚大战钢铁侠",
+                "rank": 2,
+                "date": "2016-06-11",
+                "place":"西伯利亚九头蛇秘密基地",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.83,
+                    63.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "美队和冬兵被黑豹接往瓦坎达休养",
+                "rank": 1,
+                "date": "2016-06-19",
+                "place":"瓦坎达",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.092,
+                    -0.872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "美队等人大战亡刃、比邻星",
+                "rank": 1,
+                "date": "2018-04-27",
+                "place":"英国爱丁堡",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1883749,
+                    55.9533456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "瓦坎达大战灭霸",
+                "rank": 2,
+                "date": "2018-04-29",
+                "place":"瓦坎达",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.092,
+                    -0.872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "美队等人前往灭霸所在星球击杀灭霸",
+                "rank": 1,
+                "date": "2018-05-22",
+                "place":"宇宙某行星",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "美队等人穿越时间收集无限宝石",
+                "rank": 2,
+                "date": "2023-05-20",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "穿越回2012年纽约收集心灵宝石",
+                "rank": 1,
+                "date": "2023-05-21",
+                "place":"纽约中央火车站",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97765,
+                    40.75212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "穿越回1970年新泽西收集空间宝石",
+                "rank": 1,
+                "date": "2023-05-22",
+                "place":"新泽西州维顿利哈营地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4379,
+                    40.0761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "回到原本时间线，与众英雄大战灭霸",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stever",
+                "name": "Captain America",
+                "event": "参加钢铁侠葬礼，归还无限宝石，将盾牌交给猎鹰",
+                "rank": 2,
+                "date": "2023-05-24",
+                "place":"钢铁侠木屋旁",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397,
+                    33.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark出生",
+                "rank": 1,
+                "date": "1970-05-25",
+                "place":"纽约长岛",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.1401,
+                    40.8524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark在新年派对上拒绝加入Killian的研究项目",
+                "rank": 1,
+                "date": "1999-12-31",
+                "place":"瑞士伯尔尼",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.9483,
+                    7.4515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark在中东被俘虏，制造出Mark Ⅰ战衣",
+                "rank": 2,
+                "date": "2010-04-26",
+                "place":"中东阿富汗",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1776476,
+                    34.5260131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark宣布关闭武器部门，开始研究方舟反应堆技术",
+                "rank": 1,
+                "date": "2010-07-16",
+                "place":"纽约某新闻发布会",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9980,
+                    40.7298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Mark Ⅲ战衣碾压恐怖分子",
+                "rank": 1,
+                "date": "2010-10-1",
+                "place":"阿富汗格米拉小镇",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.9996,
+                    34.5351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "在斯塔克工业大战Stan",
+                "rank": 2,
+                "date": "2010-10-24",
+                "place":"纽约斯塔克工业",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9606,
+                    40.7884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "在记者发布会公开钢铁侠身份",
+                "rank": 1,
+                "date": "2010-10-25",
+                "place":"纽约某新闻发布会",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97233,
+                    40.78378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Nick Fury正式邀请钢铁侠加入复联",
+                "rank": 1,
+                "date": "2010-10-26",
+                "place":"Tony Stark家",
+                "movie":"钢铁侠1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.7066,
+                    34.0326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "黑寡妇成为钢铁侠助理",
+                "rank": 1,
+                "date": "2011-05-22",
+                "place":"纽约斯塔克工业",
+                "movie":"钢铁侠2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9606,
+                    40.7884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "鞭索在赛车跑道上袭击钢铁侠",
+                "rank": 1,
+                "date": "2011-05-24",
+                "place":"摩纳哥F1赛道",
+                "movie":"钢铁侠2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4266,
+                    43.7402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠大战战争机器",
+                "rank": 1,
+                "date": "2011-05-26",
+                "place":"洛杉矶某处",
+                "movie":"钢铁侠2"
+
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.5356,
+                    34.0836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark合成出新的元素代替钯金属",
+                "rank": 2,
+                "date": "2011-05-28",
+                "place":"Tony Stark家",
+                "movie":"钢铁侠2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.7066,
+                    34.0326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠、战争机器联手打败鞭索",
+                "rank": 2,
+                "date": "2011-05-31",
+                "place":"纽约汉默工业博览会",
+                "movie":"钢铁侠2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84007,
+                    40.74562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "纽约之战",
+                "rank": 2,
+                "date": "2012-05-05",
+                "place":"纽约中央火车站",
+                "movie":"复仇者联盟1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97765,
+                    40.75212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark的家被曼达林轰炸",
+                "rank": 1,
+                "date": "2012-12-22",
+                "place":"Tony Stark家",
+                "movie":"钢铁侠3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.7066,
+                    34.0326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark调查爆炸事件",
+                "rank": 1,
+                "date": "2012-12-23",
+                "place":"田纳西州某小镇",
+                "movie":"钢铁侠3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.7755,
+                    36.1690
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "小辣椒感染绝境病毒，Tony Stark被基里安绑架",
+                "rank": 1,
+                "date": "2012-12-25",
+                "place":"迈阿密基里安基地",
+                "movie":"钢铁侠3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.193,
+                    25.774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "大战基里安，炸掉钢铁军团",
+                "rank": 2,
+                "date": "2012-12-27",
+                "place":"迈阿密基里安大本营",
+                "movie":"钢铁侠3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.1698,
+                    25.7736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "复联摧毁索科维亚九头蛇基地，获得洛基权杖",
+                "rank": 1,
+                "date": "2015-04-28",
+                "place":"索科维亚九头蛇基地",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3207,
+                    45.7383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠大战绿巨人",
+                "rank": 1,
+                "date": "2015-05-03",
+                "place":"南非约翰内斯堡城区",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0536,
+                    -26.2065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "复联战胜奥创，索科维亚被毁",
+                "rank": 2,
+                "date": "2015-05-06",
+                "place":"索科维亚",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3196649,
+                    45.7370885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "Tony Stark等人同意签署索科维亚协议",
+                "rank": 1,
+                "date": "2016-06-03",
+                "place":"复仇者联盟基地",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "复仇者联盟内战",
+                "rank": 2,
+                "date": "2016-06-10",
+                "place":"德国莱比锡哈雷机场",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2298,
+                    51.4213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "在西伯利亚大战美队、冬兵",
+                "rank": 2,
+                "date": "2016-06-11",
+                "place":"西伯利亚九头蛇秘密基地",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.83,
+                    63.83
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠、奇异博士大战乌木喉",
+                "rank": 1,
+                "date": "2018-04-27",
+                "place":"纽约至圣所街道",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00427,
+                    40.73336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠等人大战灭霸",
+                "rank": 2,
+                "date": "2018-04-28",
+                "place":"泰坦星",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠在太空被惊奇队长所救",
+                "rank": 1,
+                "date": "2018-05-20",
+                "place":"宇宙某处",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠等人前往灭霸所在星球击杀灭霸",
+                "rank": 1,
+                "date": "2018-05-22",
+                "place":"宇宙某行星",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "钢铁侠等人穿越时间收集无限宝石",
+                "rank": 2,
+                "date": "2023-05-20",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "2012年空间宝石被洛基偷走，收集空间宝石失败",
+                "rank": 1,
+                "date": "2023-05-21",
+                "place":"纽约中央火车站",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97765,
+                    40.75212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "穿越回1970年新泽西收集空间宝石，见到自己父亲",
+                "rank": 1,
+                "date": "2023-05-22",
+                "place":"新泽西州维顿利哈营地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4379,
+                    40.0761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tonys",
+                "name": "Iron Man",
+                "event": "回到原本时间线，与众英雄大战灭霸，使用无限手套打响响指牺牲",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "Bruce Banner出生",
+                "rank": 1,
+                "date": "1969-01-01",
+                "place":"俄亥俄州代顿",
+                "movie":"绿巨人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1838,
+                    39.7677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "Bruce Banner在实验中受到伽马射线的照射产生变异",
+                "rank": 2,
+                "date": "2005-04-16",
+                "place":"弗吉尼亚州卡尔弗大学",
+                "movie":"绿巨人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5122,
+                    38.0396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "Bruce Banner隐藏在巴西躲避军方追捕",
+                "rank": 1,
+                "date": "2005-09-21",
+                "place":"巴西里约热内卢贫民窟",
+                "movie":"绿巨人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.2481,
+                    -22.9886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "Bruce Banner躲避军方追捕，被混混挑衅变为绿巨人逃脱",
+                "rank": 1,
+                "date": "2005-09-25",
+                "place":"巴西里约热内卢贫民窟",
+                "movie":"绿巨人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.2471,
+                    -22.98767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "回到卡尔弗大学收集资料被军方围捕，变为绿巨人大战军队逃脱",
+                "rank": 1,
+                "date": "2005-09-30",
+                "place":"弗吉尼亚州卡尔弗大学",
+                "movie":"绿巨人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.5122,
+                    38.0396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "Bruce Banner在蓝博士的实验过程中被军方带走",
+                "rank": 1,
+                "date": "2005-10-01",
+                "place":"蓝博士研究所",
+                "movie":"绿巨人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0155,
+                    40.6211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "绿巨人大战憎恶然后逃走，开始隐居",
+                "rank": 2,
+                "date": "2005-10-02",
+                "place":"纽约某处",
+                "movie":"绿巨人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.99050,
+                    40.64315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "在印度被黑寡妇招募以解决宇宙魔方的问题",
+                "rank": 1,
+                "date": "2012-05-02",
+                "place":"印度加尔各答某处",
+                "movie":"复仇者联盟1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.3476023,
+                    22.5677459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "纽约之战",
+                "rank": 2,
+                "date": "2012-05-05",
+                "place":"纽约中央火车站",
+                "movie":"复仇者联盟1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97765,
+                    40.75212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "复联摧毁索科维亚九头蛇基地，获得洛基权杖",
+                "rank": 1,
+                "date": "2015-04-28",
+                "place":"索科维亚九头蛇基地",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3207,
+                    45.7383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "在非洲被绯红女巫幻觉控制，大战钢铁侠",
+                "rank": 1,
+                "date": "2015-05-03",
+                "place":"南非约翰内斯堡城区",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0536,
+                    -26.2065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "复联战胜奥创，索科维亚被毁，绿巨人驾驶战机离开地球",
+                "rank": 2,
+                "date": "2015-05-06",
+                "place":"索科维亚",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3196649,
+                    45.7370885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "与雷神大战海拉，阿斯加德被毁",
+                "rank": 2,
+                "date": "2018-04-26",
+                "place":"阿斯加德",
+                "movie":"雷神3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "阿斯加德飞船遭遇灭霸，绿巨人被海姆达尔传回地球",
+                "rank": 2,
+                "date": "2018-04-27",
+                "place":"纽约至圣所",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.004400001,
+                    40.733599999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "瓦坎达大战灭霸",
+                "rank": 2,
+                "date": "2018-04-29",
+                "place":"瓦坎达",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.092,
+                    -0.872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "浩克等人前往灭霸所在星球击杀灭霸",
+                "rank": 1,
+                "date": "2018-05-22",
+                "place":"宇宙某行星",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "Bruce Banner等人穿越时间收集无限宝石",
+                "rank": 2,
+                "date": "2023-05-20",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "穿越回2012年纽约从古一法师处获得心灵宝石",
+                "rank": 1,
+                "date": "2023-05-21",
+                "place":"纽约某天台",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0094,
+                    40.7087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "回到原本时间线，使用机械无限手套打响响指",
+                "rank": 2,
+                "date": "2023-05-22",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "与众英雄大战灭霸",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "bruceb",
+                "name": "Hulk",
+                "event": "参加钢铁侠葬礼",
+                "rank": 1,
+                "date": "2023-05-24",
+                "place":"钢铁侠木屋旁",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397,
+                    33.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "Scott Lang因闯入维斯塔公司被判刑入狱",
+                "rank": 1,
+                "date": "2012-07-13",
+                "place":"圣昆丁州立监狱",
+                "movie":"蚁人1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4906,
+                    37.9397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "Scott Lang刑满释放",
+                "rank": 1,
+                "date": "2015-07-17",
+                "place":"圣昆丁州立监狱",
+                "movie":"蚁人1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.48709,
+                    37.94024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "潜入Hank Pym的家偷走蚁人战衣",
+                "rank": 2,
+                "date": "2015-07-23",
+                "place":"Hank Pym家",
+                "movie":"蚁人1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4143,
+                    37.7955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "在Hank Pym的帮助下逃出警察局",
+                "rank": 1,
+                "date": "2015-07-24",
+                "place":"旧金山某警察局",
+                "movie":"蚁人1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41297,
+                    37.78357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "潜入复联总部偷取原型机，与猎鹰交战",
+                "rank": 1,
+                "date": "2015-07-30",
+                "place":"复仇者联盟基地",
+                "movie":"蚁人1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "蚁人大战黄衫侠，进入量子领域并成功返回",
+                "rank": 2,
+                "date": "2015-07-31",
+                "place":"皮姆科技公司",
+                "movie":"蚁人1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3677,
+                    37.8185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "受到猎鹰邀请加入美队一派，复联内战",
+                "rank": 2,
+                "date": "2016-06-10",
+                "place":"德国莱比锡哈雷机场",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2298,
+                    51.4213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "Scott Lang违反索科维亚协议，被软禁在家",
+                "rank": 1,
+                "date": "2016-06-15",
+                "place":"Scott Lang家",
+                "movie":"蚁人2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4446,
+                    37.7870
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "Scott Lang在家梦到捉迷藏，被Hank父女带走",
+                "rank": 1,
+                "date": "2018-04-01",
+                "place":"Scott Lang家",
+                "movie":"蚁人2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.444601,
+                    37.786999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "与桑尼·伯奇交易，遭遇幽灵",
+                "rank": 1,
+                "date": "2018-04-02",
+                "place":"旧金山某餐厅",
+                "movie":"蚁人2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4694,
+                    37.7854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "从幽灵家中夺回实验室，开始进行量子隧道实验",
+                "rank": 1,
+                "date": "2018-04-03",
+                "place":"幽灵家",
+                "movie":"蚁人2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5797,
+                    37.8971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "蚁人、幽灵、黑市商人三方展开实验室争夺",
+                "rank": 1,
+                "date": "2018-04-04",
+                "place":"旧金山九曲花街附近",
+                "movie":"蚁人2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41888,
+                    37.80209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "蚁人巨大化夺回实验室，初代黄蜂女回归",
+                "rank": 2,
+                "date": "2018-04-05",
+                "place":"旧金山渔人码头",
+                "movie":"蚁人2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41735,
+                    37.80903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "Hank一家被灭霸响指消灭，蚁人被困量子领域",
+                "rank": 2,
+                "date": "2018-04-29",
+                "place":"旧金山某天台",
+                "movie":"蚁人2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4387,
+                    37.7947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "Scott Lang从量子领域回归，找到复联提出时空穿越方案",
+                "rank": 1,
+                "date": "2023-05-20",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923000001,
+                    40.8836999999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "穿越回2012年纽约收集心灵宝石",
+                "rank": 1,
+                "date": "2023-05-21",
+                "place":"纽约中央火车站",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0094,
+                    40.7087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "回到原本时间线，与众英雄大战灭霸",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "scottl",
+                "name": "Ant Man",
+                "event": "参加钢铁侠葬礼",
+                "rank": 1,
+                "date": "2023-05-24",
+                "place":"钢铁侠木屋旁",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397,
+                    33.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "Stephen Strange遭遇车祸",
+                "rank": 1,
+                "date": "2016-05-06",
+                "place":"纽约乔治·华盛顿大桥出口某处",
+                "movie":"奇异博士"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.94479,
+                    40.85009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "Stephen Strange前往尼泊尔寻找卡玛泰姬",
+                "rank": 1,
+                "date": "2016-09-10",
+                "place":"尼泊尔",
+                "movie":"奇异博士"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3205817,
+                    27.7083170
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "Stephen Strange跟随古一法师开始学习法术",
+                "rank": 2,
+                "date": "2016-09-12",
+                "place":"卡玛泰姬",
+                "movie":"奇异博士"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    85.3204,
+                    27.7038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "奇异博士大战卡西利亚斯，受重伤",
+                "rank": 1,
+                "date": "2017-03-02",
+                "place":"纽约至圣所",
+                "movie":"奇异博士"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0044,
+                    40.7336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "古一法师去世，对奇异博士进行最后的教导",
+                "rank": 1,
+                "date": "2017-03-03",
+                "place":"纽约某处",
+                "movie":"奇异博士"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00316,
+                    40.73365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "奇异博士大战多玛姆",
+                "rank": 2,
+                "date": "2017-03-04",
+                "place":"香港至圣所",
+                "movie":"奇异博士"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.1693644,
+                    22.3197491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "绿巨人被传送到纽约至圣所，告诉奇异博士灭霸到来",
+                "rank": 1,
+                "date": "2018-04-27",
+                "place":"纽约至圣所",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0044,
+                    40.7336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "奇异博士、钢铁侠大战乌木喉",
+                "rank": 1,
+                "date": "2018-04-28",
+                "place":"纽约至圣所街道",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.00427,
+                    40.73336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "奇异博士等人大战灭霸，交出时间宝石",
+                "rank": 2,
+                "date": "2018-04-29",
+                "place":"泰坦星",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "奇异博士被机械无限手套复原，与众英雄大战灭霸",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "stephens",
+                "name": "Doctor Strange",
+                "event": "参加钢铁侠葬礼",
+                "rank": 1,
+                "date": "2023-05-24",
+                "place":"钢铁侠木屋旁",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397,
+                    33.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "维也纳联合国会议现场发生爆炸，T'Challa父亲去世",
+                "rank": 1,
+                "date": "2016-06-08",
+                "place":"维也纳联合国会议",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41518,
+                    48.23399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "加入钢铁侠一派，复联内战",
+                "rank": 2,
+                "date": "2016-06-10",
+                "place":"德国莱比锡哈雷机场",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2298,
+                    51.4213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "T'Challa继承瓦坎达王位",
+                "rank": 2,
+                "date": "2016-06-23",
+                "place":"瓦坎达",
+                "movie":"黑豹"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.092,
+                    -0.872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "前往韩国赌场夺回瓦坎达文物",
+                "rank": 1,
+                "date": "2016-06-25",
+                "place":"韩国釜山某赌场",
+                "movie":"黑豹"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.0742,
+                    35.1751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "T'Challa与埃里克决斗被打败，埃里克成为新王",
+                "rank": 1,
+                "date": "2016-06-28",
+                "place":"瓦坎达瀑布",
+                "movie":"黑豹"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8306,
+                    -0.4861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "T'Challa喝下心形草药水恢复，瓦坎达双方大战",
+                "rank": 2,
+                "date": "2016-06-30",
+                "place":"瓦坎达",
+                "movie":"黑豹"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.4695,
+                    -0.6698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "T'Challa在联合国会议宣布向世界共享瓦坎达的科技和力量",
+                "rank": 1,
+                "date": "2016-07-01",
+                "place":"联合国会议",
+                "movie":"黑豹"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.96730,
+                    40.75056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "瓦坎达大战灭霸，被灭霸响指消灭",
+                "rank": 2,
+                "date": "2018-04-29",
+                "place":"瓦坎达",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.092,
+                    -0.872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "黑豹被机械无限手套复原，与众英雄大战灭霸",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "tchalla",
+                "name": "Black Panther",
+                "event": "参加钢铁侠葬礼",
+                "rank": 1,
+                "date": "2023-05-24",
+                "place":"钢铁侠木屋旁",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397,
+                    33.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "Carol加入美国空军",
+                "rank": 1,
+                "date": "1986-01-01",
+                "place":"爱德华兹空军基地",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.9372,
+                    34.9067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "Carol在战机试飞中坠机，吸收宇宙魔方能量，被带到克里星治疗",
+                "rank": 2,
+                "date": "1989-01-01",
+                "place":"加利福尼亚州谢弗湖",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.2896,
+                    37.1232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "Carol摧毁斯克鲁人飞船，乘坐逃生舱降落地球",
+                "rank": 1,
+                "date": "1995-05-01",
+                "place":"洛杉矶某音像店",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.3170,
+                    38.0007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "Carol地铁追击斯克鲁人",
+                "rank": 1,
+                "date": "1995-05-02",
+                "place":"洛杉矶地铁",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.25874,
+                    34.04863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "在酒吧与Nick Fury交谈",
+                "rank": 1,
+                "date": "1995-05-03",
+                "place":"潘乔酒吧",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.3949,
+                    35.6028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "Carol与Nick Fury前往天马计划基地，回忆部分记忆",
+                "rank": 1,
+                "date": "1995-05-04",
+                "place":"神盾局基地",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.8400,
+                    37.2478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "Carol与Nick Fury前往挚友家中，调查全部真相",
+                "rank": 1,
+                "date": "1995-05-05",
+                "place":"路易斯安那州某处",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.1326,
+                    30.4537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "惊奇队长摆脱至高智慧控制，大战克里星人，取回宇宙魔方",
+                "rank": 2,
+                "date": "1995-05-10",
+                "place":"美国大峡谷",
+                "movie":"惊奇队长"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.09849,
+                    36.09655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "惊奇队长受到讯号，从太空救回钢铁侠",
+                "rank": 1,
+                "date": "2018-05-20",
+                "place":"宇宙某处",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "惊奇队长等人前往灭霸所在星球击杀灭霸",
+                "rank": 1,
+                "date": "2018-05-22",
+                "place":"宇宙某行星",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "惊奇队长与众英雄大战灭霸",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "carold",
+                "name": "Captain Marvel",
+                "event": "参加钢铁侠葬礼",
+                "rank": 1,
+                "date": "2023-05-24",
+                "place":"钢铁侠木屋旁",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397,
+                    33.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "Peter Parker被一只放射性蜘蛛咬伤",
+                "rank": 2,
+                "date": "2015-11-05",
+                "place":"纽约皇后区某处",
+                "movie":null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8355,
+                    40.6865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠接受钢铁侠邀请，参与复联内战",
+                "rank": 2,
+                "date": "2016-06-10",
+                "place":"德国莱比锡哈雷机场",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2298,
+                    51.4213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠初遇秃鹫，被钢铁侠机甲所救",
+                "rank": 1,
+                "date": "2016-08-15",
+                "place":"纽约皇后区某大桥",
+                "movie":"蜘蛛侠：英雄归来"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8549,
+                    40.6455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠跟踪罪犯来到华盛顿，被困在车库",
+                "rank": 1,
+                "date": "2016-08-20",
+                "place":"灾害控制部门深度储存库",
+                "movie":"蜘蛛侠：英雄归来"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0148,
+                    38.8876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "从华盛顿纪念碑上救下众人",
+                "rank": 1,
+                "date": "2016-08-21",
+                "place":"华盛顿纪念碑",
+                "movie":"蜘蛛侠：英雄归来"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0148,
+                    38.8876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "邮轮大战秃鹫，钢铁侠救场，收回蜘蛛侠战衣",
+                "rank": 1,
+                "date": "2016-08-25",
+                "place":"纽约某邮轮上",
+                "movie":"蜘蛛侠：英雄归来"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0324,
+                    40.5903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠大战秃鹫",
+                "rank": 2,
+                "date": "2016-09-1",
+                "place":"纽约科尼岛沙滩",
+                "movie":"蜘蛛侠：英雄归来"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9752,
+                    40.5728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠发现灭霸飞船，潜入飞船之上",
+                "rank": 1,
+                "date": "2018-04-27",
+                "place":"纽约皇后大桥",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9522,
+                    40.7558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠等人大战灭霸，被灭霸响指消灭",
+                "rank": 2,
+                "date": "2018-04-29",
+                "place":"泰坦星",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠被机械无限手套复原，与众英雄大战灭霸",
+                "rank": 2,
+                "date": "2023-05-23",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "参加钢铁侠葬礼",
+                "rank": 1,
+                "date": "2023-05-24",
+                "place":"钢铁侠木屋旁",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.397,
+                    33.766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "Peter Parker与同学前往欧洲旅行",
+                "rank": 1,
+                "date": "2024-06-15",
+                "place":"纽约JFK机场",
+                "movie":"蜘蛛侠：英雄远征"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.7794,
+                    40.6423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠与神秘客在威尼斯大战水元素",
+                "rank": 1,
+                "date": "2024-06-16",
+                "place":"威尼斯运河里阿尔托桥",
+                "movie":"蜘蛛侠：英雄远征"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.33589,
+                    45.43806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠与神秘客在布拉格大战火元素，将EDITH眼镜交给神秘客",
+                "rank": 1,
+                "date": "2024-06-18",
+                "place":"布拉格歌剧院",
+                "movie":"蜘蛛侠：英雄远征"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4240,
+                    50.0796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "Peter Parker得知真相，陷入神秘客的多重幻境中",
+                "rank": 1,
+                "date": "2024-06-19",
+                "place":"德国勃兰登堡门",
+                "movie":"蜘蛛侠：英雄远征"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37769,
+                    52.51628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "在荷兰被Happy所救，与Happy深刻交谈",
+                "rank": 1,
+                "date": "2024-06-20",
+                "place":"荷兰某小镇",
+                "movie":"蜘蛛侠：英雄远征"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8034,
+                    52.6752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "peterp",
+                "name": "Spider Man",
+                "event": "蜘蛛侠大战神秘客",
+                "rank": 2,
+                "date": "2024-06-22",
+                "place":"英国伦敦塔桥",
+                "movie":"蜘蛛侠：英雄远征"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07535,
+                    51.50549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "Natasha Romanoff出生",
+                "rank": 1,
+                "date": "1984-06-01",
+                "place":"伏尔加格勒",
+                "movie":null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.5015,
+                    48.7026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "Natasha Romanoff进入红房子间谍训练基地培训",
+                "rank": 1,
+                "date": "1995-07-24",
+                "place":"红房子间谍学院",
+                "movie":null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.8616,
+                    55.0119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "在一次任务中与鹰眼相识，被招募为神盾局特工",
+                "rank": 2,
+                "date": "2004-06-01",
+                "place":"匈牙利布达佩斯",
+                "movie":null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0683,
+                    47.4936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "在保护一名核工程师任务中被冬兵所伤",
+                "rank": 2,
+                "date": "2009-06-01",
+                "place":"乌克兰敖德萨",
+                "movie":null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.7400,
+                    46.4826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "黑寡妇成为钢铁侠助理",
+                "rank": 1,
+                "date": "2011-05-22",
+                "place":"纽约斯塔克工业",
+                "movie":"钢铁侠2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.9606,
+                    40.7884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "在博览会上解决保安，解除鞭锁的自动控制设备",
+                "rank": 2,
+                "date": "2011-05-31",
+                "place":"纽约汉默工业博览会",
+                "movie":"钢铁侠2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.84869,
+                    40.74537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "在调查俄国将军Georgi Luchkov时收到消息，成功逃脱",
+                "rank": 1,
+                "date": "2012-05-01",
+                "place":"俄罗斯新西伯利亚某处",
+                "movie":"复仇者联盟1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9833,
+                    55.0860
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "前往印度招募Bruce Banner博士",
+                "rank": 1,
+                "date": "2012-05-02",
+                "place":"印度加尔各答某处",
+                "movie":"复仇者联盟1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.3476023,
+                    22.5677459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "纽约之战",
+                "rank": 2,
+                "date": "2012-05-05",
+                "place":"纽约中央火车站",
+                "movie":"复仇者联盟1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.97765,
+                    40.75212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "在维顿利哈营地发现神盾局被九头蛇大规模深渗入",
+                "rank": 1,
+                "date": "2014-04-02",
+                "place":"新泽西州维顿利哈营地",
+                "movie":"美国队长2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.4379,
+                    40.0761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "华盛顿特区之战",
+                "rank": 2,
+                "date": "2014-04-04",
+                "place":"华盛顿神盾局总部旁",
+                "movie":"美国队长2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.0521,
+                    38.8944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "复联摧毁索科维亚九头蛇基地，获得洛基权杖",
+                "rank": 1,
+                "date": "2015-04-28",
+                "place":"索科维亚九头蛇基地",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3207,
+                    45.7383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "在非洲被绯红女巫幻觉控制",
+                "rank": 1,
+                "date": "2015-05-03",
+                "place":"南非约翰内斯堡某工厂",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0536,
+                    -26.2065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "前往韩国首尔阻止奥创获得摇篮",
+                "rank": 1,
+                "date": "2015-05-04",
+                "place":"韩国首尔某研究所",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    126.94392,
+                    37.53657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "复联战胜奥创，索科维亚被毁",
+                "rank": 2,
+                "date": "2015-05-06",
+                "place":"索科维亚",
+                "movie":"复仇者联盟2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3196649,
+                    45.7370885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "阻止交叉骨的袭击，绯红女巫误伤平民",
+                "rank": 1,
+                "date": "2016-05-03",
+                "place":"尼日利亚拉各斯",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3941795,
+                    6.4550575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "参加Peggy Carter葬礼",
+                "rank": 1,
+                "date": "2016-06-04",
+                "place":"英国伦敦",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1276474,
+                    51.5073219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "维也纳联合国会议现场发生爆炸，T'Challa父亲去世",
+                "rank": 1,
+                "date": "2016-06-08",
+                "place":"维也纳联合国会议",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41518,
+                    48.23399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "冬兵在停电中逃脱，黑寡妇被黑豹所救",
+                "rank": 1,
+                "date": "2016-06-09",
+                "place":"德国柏林某处",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3735,
+                    52.5309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "带黑豹加入钢铁侠一派，复联内战",
+                "rank": 2,
+                "date": "2016-06-10",
+                "place":"德国莱比锡哈雷机场",
+                "movie":"美国队长3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2298,
+                    51.4213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "黑寡妇等人大战亡刃、比邻星",
+                "rank": 1,
+                "date": "2018-04-27",
+                "place":"英国爱丁堡",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1883749,
+                    55.9533456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "瓦坎达大战灭霸",
+                "rank": 2,
+                "date": "2018-04-29",
+                "place":"瓦坎达",
+                "movie":"复仇者联盟3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.092,
+                    -0.872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "黑寡妇等人前往灭霸所在星球击杀灭霸",
+                "rank": 1,
+                "date": "2018-05-22",
+                "place":"宇宙某行星",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "黑寡妇等人穿越时间收集无限宝石",
+                "rank": 2,
+                "date": "2023-05-20",
+                "place":"复仇者联盟基地",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.8923,
+                    40.8837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "blackw",
+                "name": "Black Widow",
+                "event": "黑寡妇回到2014年沃米尔星，为了获取灵魂宝石，跳下悬崖牺牲",
+                "rank": 2,
+                "date": "2023-05-21",
+                "place":"沃米尔星",
+                "movie":"复仇者联盟4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0,
+                    -30
+                ]
+            }
+        }
+    ]
+}

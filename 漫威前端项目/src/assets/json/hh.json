@@ -1,0 +1,6 @@
+{"type": "Feature", 
+    "properties": {"name": "Boise  - Samuel Sterns born here.", 
+                    "description": "Official Handbook of the Marvel Universe #6 (1983) - Samuel Sterns (later the Leader) was born in Boise.", 
+                    "styleUrl": "https://www.gstatic.com/mapspro/images/stock/183-man.png"}, 
+                    "geometry": {"type": "Point", 
+                        "coordinates": [-116.18999, 43.578743]}} 

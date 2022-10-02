@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Marvel Universe</name>
+    <description><![CDATA[Events of the Marvel Universe.  This should provide a comprehensive Pacific Northwest (well, Oregon, Washington, and Idaho anyway) mapping - let me know if I missed anything!<br><br>In the order below, items are listed by state, then city within that state, and then within each state comes a list of all places lacking an explicit city.<br><br>Items with yellow tags either lack a defined site, and I've made my best guess, or are a "fake" location.  For places which give a detailed named location, a black dot indicates the place is real.]]></description>
+    <Style id="icon-158-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/158-yellow.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-158-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/158-yellow.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-158">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-158-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-158-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-177-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/177-camera.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-177-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/177-camera.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-177">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-177-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-177-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-183-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/183-man.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-183-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/183-man.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-183">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-183-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-183-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-199-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/199-woman.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-199-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/199-woman.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-199">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-199-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-199-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-24-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/24-blue.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-24-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/24-blue.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-24">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-24-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-24-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-41-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/41-dollar.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-41-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/41-dollar.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-41">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-41-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-41-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-51-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/51-firedept.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-51-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/51-firedept.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-51">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-51-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-51-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-619-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/619-volcano_small.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-619-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/619-volcano_small.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-619">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-619-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-619-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-33FF33-3000-normal">
+      <LineStyle>
+        <color>ff33ff33</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-33FF33-3000-highlight">
+      <LineStyle>
+        <color>ff33ff33</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-33FF33-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-33FF33-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-33FF33-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-6633FF-3000-normal">
+      <LineStyle>
+        <color>ffff3366</color>
+        <width>3</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-6633FF-3000-highlight">
+      <LineStyle>
+        <color>ffff3366</color>
+        <width>4.5</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-6633FF-3000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-6633FF-3000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-6633FF-3000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-FFFF00-4000-normal">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-FFFF00-4000-highlight">
+      <LineStyle>
+        <color>ff00ffff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-FFFF00-4000">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-FFFF00-4000-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-FFFF00-4000-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Boise  - Samuel Sterns born here.</name>
+        <description>Official Handbook of the Marvel Universe #6 (1983) - Samuel Sterns (later the Leader) was born in Boise.</description>
+        <styleUrl>#icon-183</styleUrl>
+        <Point>
+          <coordinates>
+            -116.18999,43.578743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Boise  - Tablerock Bar & Grill, site of Hulk rampage.]]></name>
+        <description><![CDATA[Avengers #487 (2003) - News reports stated that Boise, ID had suffered two million dollars in damage when the Hulk rampaged there and leveled the Tablerock Bar & Grill.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -116.206105,43.611207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bone, ID - site of She-Hulk/Avengers/Hulk battle</name>
+        <description><![CDATA[Avengers #487-490 (2003-2004) - A "savage" She-Hulk battled the Avengers (Iron Man, Captain America, Scarlet Witch, Hawkeye) and the Hulk near Bone, ID; Don Samson and a squad of Hulk-buster soldiers also appeared but stayed out of the fight.  The Hulk was blamed for the damage.<br><br>She-Hulk #4 (2006) - In her Jennifer Walters identity, a guilt-ridden She-Hulk spent several months helping in clean-up, and finaly confessed her role in the damage done.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -111.795416,43.311721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twin Falls, ID - Bruce Banner sighted here.</name>
+        <description><![CDATA[Avengers #487 (2003) - Bruce Banner (the Hulk's alter ego) was reported as having been seen in Idaho Falls.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -112.042007,43.490417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA["Arizona Annie" visited Idaho hot springs and gold mines in 1880s]]></name>
+        <description>Marvel Westerns: Outlaw Files #1 (2006)  - Stories relate Arizona Annie as visiting the wilds of northern Idaho in the late 19th century, swimming in natural hot pools and harvesting gold nuggets.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -114.698639,46.577271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hate Monger's Neo-Nazi Camp - closed by Captain America]]></name>
+        <description>Captain America #25-27 (2001) - Captain America, the Falcon, and Nick Fury rescued Chairman of the Joint Chiefs from the Hate Monger and a camp of neo-Nazis.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -116.51413,47.827908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corvallis, OR - Rita Wayworth born here.</name>
+        <description>All New Official Handbook of the Marvel Universe A to Z #10 (2006) - Rita Wayworth (later Ricochet Rita, then Spiral) was born in Corvallis, OR.</description>
+        <styleUrl>#icon-199</styleUrl>
+        <Point>
+          <coordinates>
+            -123.264652,44.558814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klamath Falls, OR - River Verys born here.</name>
+        <description>Spider-Man: Back in Black Handbook #1 (2007) - River Verys (later Tendril) was born in Klamath Falls, OR.</description>
+        <styleUrl>#icon-183</styleUrl>
+        <Point>
+          <coordinates>
+            -121.745255,42.20102,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paxton, OR</name>
+        <description><![CDATA[Death's Head II #1-2 (1992-1993) - Death's Head and Tuck came to Paxton, OR. Numerous superhumans and the X-Men came and battled in Paxton's streets until all parties left.]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -117.567444,42.863886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Cessily Kincaid born here.</name>
+        <description>New X-Men: Academy X Yearbook #1 (2005) - Cessily Kincaid (later Mercury) was born in Portland, OR.</description>
+        <styleUrl>#icon-199</styleUrl>
+        <Point>
+          <coordinates>
+            -122.640595,45.511606,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Daisy Johnson raised here</name>
+        <description><![CDATA[Secret War #2 (2004) - Daisy Johnson, under the name Cory Sutter, was raised in Portland, OR by her adoptive parents. Her mutant powers first manifested at age 17 after she was caught shoplifting in Portland, causing a 3.2 magnitude earthquake.<br><br>(Mighty Avengers #13 (2008) - Nick Fury revealed Daisy Johnson's true parentage to her, and recruited her to join SHIELD and invade Latveria before she even finished high school.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.630907,45.564304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Damocles Foundation</name>
+        <description>X-Force #79 (1998) - The heavily-defended headquarters of the Damocles Foundation lies outside Portland, Oregon.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.388554,45.547777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - GARID Corporation</name>
+        <description>Spider-Man: The Final Adventure #1-4 (1995-1996) - Peter Parker briefly worked at the GARID Corporation, during which time Tendril was created and killed, and Dryrot cured.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.815003,45.493142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Governor Hotel</name>
+        <description><![CDATA[Spider-Man: The Final Adventure #4 (1996) - Tendril killed and took a man's room at the Governor Hotel; Spider-Man and dryrot eventually defeated him there.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.682728,45.520755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Mt. Tabor Park</name>
+        <description><![CDATA[Mighty Avengers #13 (2008) - In Portland's Mt. Tabor Park, a disguised Nick Fury re-recruited Daisy Johnson.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.594526,45.51143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - My Cold Dead Hand gun shop</name>
+        <description><![CDATA[Wolverine #7 (2004) - ATF agent Cassie Lathrop visied Sycamore Blaine in his Portland guns & ammo shop "My Cold, Dead Hand."]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.664521,45.514151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Portland - Peter Parker's apartment]]></name>
+        <description>Spider-Man: The Final Adventure #1-4 (1995-1996) - Peter Parker and Mary Jane lived briefly in Portland, staying in an 11 story downtown apartment building.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.683618,45.523307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Random apprehends serial killer</name>
+        <description><![CDATA[X-Factor I#102 (1994) - Random apprehended serial killer John Wayne Fillmore in Portland, breaking Fillmore's leg.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.669992,45.523337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Spotted Ram</name>
+        <description><![CDATA[Howard the Duck #3 (2008) - Two patrons in the Portland restaurant the Spotted Ram debated political issues involving Howard the Duck and the superhero "civil war" before the discussion devolved into brawling.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.698145,45.526844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Stark Enterprises Plant</name>
+        <description>Thor Annual#15 (1990) - Iron Man brought a wounded Machine Man to a Stark Enterprises plant in Portland to be repaired.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.71677,45.570253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Steel Bridge</name>
+        <description>Spider-Man: The Final Adventure#2 (1995) - Tendril killed and coccooned several victims beneath the Steel Bridge.  Spider-Man and GARID forces drove him off.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.670572,45.526915,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Portland - Willamette River</name>
+        <description><![CDATA[Secret Invasion: Who Do You Trust? #1 (2008) - During the "Secret Invasion," the Agents of Atlas operated out of Marvel Boy's saucer, parked at the bottom of the Willamette River, and they killed a slew of Skrulls who entered the water to attck the team.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.67025,45.515519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salem, OR - Atlantean sleeper cell</name>
+        <description><![CDATA[Sub-Mariner #3 (2007) - Atlantis' Prince Namor placed 12 sleeper cells of Atlantean agents in the continental United States. One of these cells was placed in the mid-Willamette Valley, in or near Salem.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -123.030481,44.938436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salem, OR - Cassandra Webb born here.</name>
+        <description>Official Handbook of the Marvel Universe #6 (1983) - Cassandra (maiden name unknown, subsequent married name Cassandra Webb, aka Madame Web) was born in Salem, OR.</description>
+        <styleUrl>#icon-199</styleUrl>
+        <Point>
+          <coordinates>
+            -123.051464,44.903967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sublimity, OR - Charlotte Witter born here.</name>
+        <description>All-New Official Handbook of the Marvel Universe A to Z #10 (2006) - Charlotte Witter (later a Spider-Woman) was born in Sublimity, OR.</description>
+        <styleUrl>#icon-199</styleUrl>
+        <Point>
+          <coordinates>
+            -122.780851,44.828376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Al B. Harper's grave]]></name>
+        <description><![CDATA[Silver Surfer #5 (1968) - The Surfer had Al Harper buried in a local graveyard, marking the grave with an eternal cosmic flame.<br><br>Spider-Man Team-Up #2 (1996) - Thanos teleported Ben Reilly (Spider-Man) and the Silver Surfer to Al B. Harper's grave, located in a graveyard on a bluff near a body of water. The pair paid brief tribute to Harper before leaving.<br><br>Silver Surfer #123 (1996) - An emotionally wounded Silver Surfer returned to Al B. Harper's grave and doused the eternal flame, wondering how he could have ever cared that much.]]></description>
+        <styleUrl>#icon-51</styleUrl>
+        <Point>
+          <coordinates>
+            -122.670829,45.466662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Al Harper sacrificed his life</name>
+        <description><![CDATA[Silver Surfer #5 (1968) - While the Silver Surfer and the Stranger fought downtown, Al Harper located the Stranger's bomb and disarmed it, sacrificing his own life to do so.]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -122.637548,45.47867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amnesiac Namor stays in lumber town</name>
+        <description>Namor #26-29 (1992) - An amnesiac Namor spent time in an unidentified lumber town on the coast.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -123.891449,45.554449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First National Bank</name>
+        <description>Silver Surfer #5 (1968) - The Silver Surfer broke into First National Bank. He considered robbing it but ultimately changed his mind.</description>
+        <styleUrl>#icon-41</styleUrl>
+        <Point>
+          <coordinates>
+            -122.664145,45.520639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hulk battled soldiers</name>
+        <description>Defenders #67 (1979) - The Hulk was in deep Oregon woods when soldiers attacked him. He dived into a river and went over a waterfall, after which he irately attacked the soldiers.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -122.128487,43.611611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oregon State Penitentiary</name>
+        <description>Marvel Mystery Comics #23 (1941) -  At a large mansion/castle near the state prison, a Professor Dorn kidnapped prisoners and created aquatic men until the Sub-Mariner stopped him.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.004102,44.93291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ultron's hidden base]]></name>
+        <description>Avengers West Coast Annual #8 (1993) - Ultron and Alkema had a hidden base in the forests of northern Oregon; they briefly monitored a plan to activate Pacific Rim volcanoes from here.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -121.78894,45.021127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vegas stops robbery</name>
+        <description>Amazing Fantasy #13 (2005) - Vegas stopped at an Eastern Oregon convenience store somewhere south of Baker. Someone attempted to rob the store and Vegas stopped them, heading out before the police arrived.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -117.042847,44.097448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bainbridge Island, WA</name>
+        <description>Power Pack #1-4 (2000) - Jim and Margaret Power and their four children (Power Pack) moved here from New York.  They chose a Bainbridge Island home because of its relative isolation.  They were attacked by Snarks while living here.  Their next door neighbors were the Allens.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.545795,47.629421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bainbridge Island, WA - Bainbridge Island Medical Center</name>
+        <description>Power Pack #2 (2000) - Margaret Power fell ill and was taken to the Bainbridge Island Medical center; she was released a day or so later.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.535152,47.649084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bellingham, WA - Rogues Gallery Costumes</name>
+        <description>Thunderbolts #63 (2002) - Fugitives Hawkeye, Cottonmouth, Headlok, and Plantman traveled by car through Washington state and stopped at Rogues Gallery Costumes (a criminal underground costuming shop), where Cottonmouth got a fake beard.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.475157,48.755453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bellingham, WA - West Holly Street Outreach Center</name>
+        <description>Blaze #6 (1995) - Johnny Blaze (traveling with the Quentin Carnival) met with Eve Two Crows (a very modern and tech-friendly native American shaman / social worker) at the West Holly Street Outreach Center (which served primarily native Americans) in downtown Bellingham, near the waterfront.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.481337,48.751068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Centralia, WA - Ultimo crossed I-5.</name>
+        <description>Iron Man III#25 (2000) - Ultimo marched east across Washington, making landfall at dawn near Raymond, Washington, and crossing I-5 just north of Centralia.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.975464,46.852678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Georgeville, WA</name>
+        <description><![CDATA[Captain America Annual #9 (1990) - In the Washington Cascades, Mount Saint Cloud (a fictional mountain) became volcanically active; Tony Stark's Project Persephone studied its lava. After a probe was damaged by the energy from a Terminii, Iron Man and the probe's crew (Dr. Rebecca Napier and Captain America) retired to the (alo fictional) nearby town of Georgeville, near the lands of the Walakima tribe (yes, fictional too).  The citizens of that town fell under Terminii control, but Captain America freed them.]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -120.08606,48.339821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. Haven, WA</name>
+        <description><![CDATA[X-Treme X-Men #26-30 (2003) - Mt. Haven, WA was a small town in the Okanogan Forest, originally a government facility which studied mutants, among other things. It was completely self-contained, powered geothermally, only accessible through winding hidden back roads, and is not on any map.  It possessed no land-line phones, and no cellular links or satellite dishes.  A cybernetic organism which came to be known as Reverend Paul (adopting the identity of a young boy who'd died under government experiments) eventually kiled all the non-mutant population, and began forcing the mutant population to live peacefully as he wished them, under his nannite control.  William Stryker, Lady Deathstrike, and the X-Men eventually found the town; Reverend Paul's withdrew his nannites from Mt. Haven's population, killing those who'd been there for a long period of time.  Shadowcat buried Reverend Stryker and Reverend Paul together, confining them underground together to work out their differences.  The survivors were evacuated, and Bishop detonated the town's thermal plant, destroying the town, after which the government claimed a volcanic eruption had buried "an uninhabited valley."]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -120.877075,48.428289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pullman, WA - Sharon Ventura born here</name>
+        <description>All New Official Handbook of the Marvel Universe A to Z #7 (2006) - Sharon Ventura, who would later join the Fantastic Four as Ms. Marvel, was born in Pullman.</description>
+        <styleUrl>#icon-199</styleUrl>
+        <Point>
+          <coordinates>
+            -117.183952,46.738037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raymond, WA - Ultimo made landfall</name>
+        <description>Iron Man III#25 (2000).  Having awoken off the Washington coast, Ultimo began marching inland in a straight line towards Spokane, making landfall just north of Raymond, WA.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -123.848705,46.720211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Redmond, WA - Astrodyne Corporation</name>
+        <description>Iron Man #11-12 (1998-1999) - Sunset Bain sent Parnell Jacobs (as War Machine) to destroy the Redmond, WA Astrodyne Systems Plant. Iron Man and Warbird engaged War Machine, but he still destroyed the plant before fleeing.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.139001,47.68911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SeaTac International Airport</name>
+        <description>Iron Man #24 (2000) - Warbird kicked Iron Man through the wing of Championair 619, and then she and Iron Man cooperated to barely get the jet to a safe lading at SeaTac.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.302294,47.443821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - AIM Regional Facility</name>
+        <description><![CDATA[Ms. Marvel #15-16 (2007) - Located on the 12th floor, this regional facility was very publicly invaded by Ms. Marvel and her Lightning Storm, Wonder Man, and rival AIM factions.  The facility was shut down by Ms. Marvel's forces.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.347881,47.615711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Asia House</name>
+        <description><![CDATA[Iron Man #16 (1999) - At Asia House, a curio shop in Seattle's International District, musician Billy Yuan became fascinated by a dragon statue, and was controlled into stealing it, after which he began evolving into a dragon-form (Fin Fang Foom).]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.326552,47.597337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Baintronics</name>
+        <description>(Iron Man Annual 11 (1990) - Sunset Bain opened the corporate headquarters of her Baintronics Inc. corporation in the Seattle area, next to a large aircraft facility. When Machine Man fled from a Terminii, he was recovered by Iron Man near Baintronics (hey were attacked by a bearlike Terminii; Machine Man fled with Jocasta and was recovered by Iron Man near Baintronics (Sunset Bain took Machine Man and Jocasta into custody and duplicated each, returning a fake Jocasta head to Machine Man; intending to study them and create prototype humanoids). Iron Man and Machine Man defeated that Terminii.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.319031,47.534356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Conference Center</name>
+        <description>USAgent #2-3 (2001) - Washington Senator Warkovsky made a presentation at a Trade Summit at a new Conference Center; he had an apparent breakdown before being attacked by the USAgent. Captain America intervened and he and the Agent battled there in front of national TV cameras.  The Agent exposed an alien controlling Warkovsky; the mother alien killed, and Warkovsky would go on to lose his re-election campaign.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.349436,47.61127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Edison penthouse apartment.</name>
+        <description><![CDATA[Marvel Comics Presents #21 (1989) - Publisher Emmette (& daughter Dixie) Edisons' private Seattle penthouse, where Paladin returned the "kidnapped" Dixie to Emmette.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.335167,47.605906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Godzilla emerged on docks</name>
+        <description>Godzilla #2 (1977) - Godzilla, in pain after having been wounded by SHIELD lasers, emerged from the water into the docks immediately south of downtown Seattle, and began rampaging north along the waterfront.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3386,47.598842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Godzilla rampaged</name>
+        <description>Godzilla #2 (1977) - Godzilla emerged from the water into the docks immediately south of downtown Seattle, and began rampaging north along the waterfront. As Godzilla reached and flamed the Space Needle, SHIELD created a forced blackout in Seattle from their Helicarrier, and lured Godzilla away and into Puget Sound via bright flares. .</description>
+        <styleUrl>#line-33FF33-3000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.33834,47.59892,0
+            -122.33732,47.60258,0
+            -122.33933,47.605317,0
+            -122.335349,47.607053,0
+            -122.339737,47.611675,0
+            -122.343857,47.614134,0
+            -122.34979,47.617714,0
+            -122.349983,47.619204,0
+            -122.349715,47.62039,0
+            -122.354769,47.619782,0
+            -122.359886,47.617352,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Happy Abs Athletic Club</name>
+        <description><![CDATA[Iron Man: Bad Blood #2 (2000) - Tony Stark injured CEO Roland "Rolly" Kinison in a racquetball game.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.33382,47.603908,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - James A Polk Memorial High School</name>
+        <description>Secret Defenders #20-21 (1994) - Cody Fleisher (later Cadaver) attended school here.  He returned briefly, but was rejected by his former friends.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.362547,47.549479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Mausoleum containing Moebius Stone</name>
+        <description><![CDATA[Secret Defenders #16-17 (1994) - At a Seattle-area cemetary,  the sorceress Malachi drained Cody Fleisher's life-force before locating the last fragment of the Moebius Stone in a mausoleum in that graveyard.  Dr. Druid and his "secret Defenders" (Cage, Deadpool, Shadowoman) opposed her.  Cody was restored to life as Cadaver by a spell cast by Agamotto. Malachi managed to obtain the final fragment and began unravelling time; Seattle began undergoing off time effects - plants taking over, brick crumbling to dust (causing the collapse of buildings), people aging or de-aging incredibly fast.  Deadpool killed Malachi, leading Strange to appear to claim her powers and the Moebius Stone.  However, Dr. Druid used the stone's energies to destroy itself, restoring Seattle and leaving its citizens' memories of the events as little more than a confusing daydream.  The Secret Defenders apparently departed soon thereafter, taking Cadaver with them.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.367868,47.542295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - KSNN TV</name>
+        <description><![CDATA[Iron Man Annual 11 (1990) - News reports from Seattle's KSNN (anchored by Ron Winn, with onsite reporter Jennifer Kaylen) indicated that six had been killed and 45 injured in the Terminii Seattle-area rampage.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.342978,47.621438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Providence Medical Center</name>
+        <description>Iron Man #17 (1999) - Fin Fang  Foom attacked the Providence Medical Center, but Iron Man eventually defeated him over the Sound with the help of a Navy ship.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.31122,47.606474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Pioneer Building</name>
+        <description>New Warriors #8 (2000) - Junzo Muto took Iron Fist into the tunnels of underground Seattle; the Warriors pursued him there but the fight ended when the Warriors fled, breaking out of the underground in front of the Pioneer Building.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.333724,47.602108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Sam Brulin killed by Bengal.</name>
+        <description><![CDATA[Daredevil #258 (1988) - Samuel "Sam" Birulin was killed in bed in his Seattle home by Bengal.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.351904,47.625748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Seattle Aerospace Center</name>
+        <description><![CDATA[Iron Man: Bad Blood #3 (2000) - Tony Stark donated the never-used Jupiter Landing Vehicle to the Seattle Aerospace Center.  A Center researcher had built the world's first Negative Energy Condenser, but one of Stark's employees (Earl) activated the JLV and used it to try to steal the Condenser.  Iron Man stopped the thief, but the Condenser and the JLV were both seriously damaged in the fight.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.296779,47.518461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Seattle - Spymaster's warehouse headquarters]]></name>
+        <description><![CDATA[Iron Man: Bad Blood #2 (2000) - Police located Spymaster's headquarters in a Seattle warehouse near the Sound, and Iron Man burst in on him. While the battle was covered by reporters, Spymaster fled towards the Space Needle in a flying vehicle.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.37422,47.627874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Space Needle</name>
+        <description><![CDATA[Godzilla #2 (1977) - Godzilla flamed the Space Needle before being lured away by SHIELD.<br><br>Iron Man: Bad Blood #2 (2000) - Spymaster was fleeing in a flying vehicle, which Iron Man knocked into the Space Needle and the two fought there before falling from the Needle. Iron Man defeated Spymaster outside, though he did immense collateral damage to nearby buildings.<br><br>Ms. Marvel #16 (2007) - A mid-controlled Wonder Man knocked Ms. Marvel into the Space Needle, and then back out if it again.<br><br>Sub-Mariner #2-5 (2007) - A three-person (Arath, Kamar, Krakos) Seattle-based Atlantean terrorist cell activated an extractor in the nearby Unocorp Building and observed from the Space Needle.  They subsequently battled Namor, and Arath was impaled on the spire atop the Space Needle.]]></description>
+        <styleUrl>#icon-177</styleUrl>
+        <Point>
+          <coordinates>
+            -122.349415,47.620498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Stark-Fujikawa branch offices</name>
+        <description><![CDATA[New Warriors #8 (2008) - Hand ninjas working for Junzo Muto attacked Iron Fist (Danny Rand) in the parking garage at Seattle's Stark-Fujikawa branch. Night Thrasher (Dwayne Taylor) came to Fist's aid, but the ninjas disappeared with Iron Fist.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.333386,47.603002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Stark Solutions offices</name>
+        <description>Iron Man #28 (2000) - Stark Solutions had a high-rise office/tower.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.334695,47.608724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - University of Washington</name>
+        <description><![CDATA[Punisher #12 (1988) - Gary Saunders (now deceased serial killer) attended the University of Washington. A popular student, he was eventually caught cheating and expelled. Several co-eds disappeared which Saunders was at UW, but no one associated him with those disappearances at the time. <br><br>Power Pack #1 (2003) - James Power accepted a teaching position at UW, and he and his wife and children (Power Pack) moved to Bainbridge Island to allow that.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.310812,47.659231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle - Unocorp Building</name>
+        <description>Sub-Mariner #2-5 (2007) - A three-person (Arath, Kamar, Krakos) Seattle-based Atlantean terrorist cell activated an extractor in the Unocorp Building, which began suffocating all present.  Namor destroyed the device, saving the building occupants.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.347988,47.61809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Seattle - Viper & Cobra battled Nomad]]></name>
+        <description>Captain America #182 (1975) - The Cobra and Viper were holed in a decrepit apartment complex, surrounded by police. Nomad (Captain America) confronted the pair inside before a tear gas grenade lit the apartment complex on fire; Nomad got the Cobra out while the house collapsed around Viper, and her Serpent Crown was washed into a drain. (Also seen in follow-up flashbacks in Marvel Team-Up #84 (1979) and Marvel Two-in-One #66 (1980)</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -122.314117,47.658508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle-Bainbridge Island Ferry</name>
+        <description>Rogue #3 (2001) - On a ferry to Bainbridge Island, Rogue and Cyclops stopped terrorists and disarmed a bomb with the aid of a Seattle police department bomb squad agent named Lance, who was killed in the fight (Rogue gave Lance credit for disarming the bomb).</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.428207,47.61195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Spokane, WA - Dr. Heisenberg's Probability Lab]]></name>
+        <description><![CDATA[Amazing Fantasy #14 (2005) - Dr. Heisenberg was working on a "probability generator" in a Spokane lab.  Vegas visited his twin sister Jane, who was working with Dr. Heisenberg. With his minions, the Renegades, the Suicide King shot up the lab, destroying it in an explosion which left three burnt bodies.  Believing his sister among the dead, Vegas left Spokane thereafter.]]></description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -117.411962,47.658566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spokane, WA - Fairchild Air Force Base</name>
+        <description>Iron Man II#25 (2000) - When Ultimo was marching cross state towards Spokane, a squadron from Fairchild aided Iron Man in battling him.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -117.649841,47.618198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spokane, WA - Gary Saunders born here</name>
+        <description>Punisher #12 (1988) - Gary Saunders (later to grow to become a serial killer before being killed) was raised in Spokane, WA.</description>
+        <styleUrl>#icon-183</styleUrl>
+        <Point>
+          <coordinates>
+            -117.410406,47.670813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spokane, WA - Ultimo defeated by Iron Man, Ms. Marvel.</name>
+        <description>Iron Man III#25 (2000) - Ultimo was defeated by Iron Man and Ms. Marvel just outside Spokane, with help from a squadron from a squadron from Fairchild Air Force Base.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -117.79541,47.646887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacoma, WA - Griffin born here</name>
+        <description><![CDATA[Official Handbook of the Marvel Universe: Master Edition I#30 (1993) - John "Johnny" Horton (later Griffin) was born in Tacoma, WA.]]></description>
+        <styleUrl>#icon-183</styleUrl>
+        <Point>
+          <coordinates>
+            -122.475564,47.264539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twisp, WA - Kitty Pryde found near here</name>
+        <description>X-Treme X-Men #27 (2003) - Shadowcat (Kitty Pryyde) escaped from Reverend William Stryker, and found herself unconscious on Highway 20, just beyond the town of Twisp, WA. Havenite mutants rescued her, and brought her to Mt. Haven.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -120.158844,48.413707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yakima, WA - Rainier Federal Correctional Facility</name>
+        <description>Alpha Flight #43 (1987) - Mesmero was held at this facility.  His escape resulted in the death of several guards and his doctor; he fled north by van to Vancouver, BC.</description>
+        <styleUrl>#icon-24</styleUrl>
+        <Point>
+          <coordinates>
+            -120.593834,46.569423,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Godzilla lured to Pacific by SHIELD</name>
+        <description>Godzilla #2 (1977) - A SHIELD Helicarrier lured Godzilla across the Sound away from Seattle, across the Olympic Peninsula through unpopulated areas, and finally back out to sea, where he swam away.</description>
+        <styleUrl>#line-33FF33-3000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -122.468033,47.551274,0
+            -122.51009,47.477652,0
+            -122.755737,47.484729,0
+            -122.919159,47.506997,0
+            -123.11657,47.525084,0
+            -123.295784,47.486353,0
+            -123.52478,47.464308,0
+            -124.044571,47.363479,0
+            -124.287643,47.327189,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mysterious underground waterway</name>
+        <description>Marvel Mystery Comics #27 (1942) - The Fox employed an underground waterway to smuggle furs into the U.S.; this waterway ran from lower Alaska to Washington state.</description>
+        <styleUrl>#line-FFFF00-4000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -130.805969,55.728657,0
+            -123.583832,48.090005,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Ultimo marched across Washington state</name>
+        <description>Iron Man III#25 (2000).  Having awoken off the Washington coast, Ultimo began marching inland in a straight line eastwards towards Spokane.</description>
+        <styleUrl>#line-6633FF-3000</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -117.798157,47.647812,0
+            -123.851624,46.721035,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ba'al battled Johnny Blaze]]></name>
+        <description><![CDATA[Blaze #6 (1995) - A Wendigo appeared from a portal near a low-mountain riverbank, bearing both of Johnny Blaze's children, Emma & Craig, plus a third child, Jesse Pinto. The demonic Baal emerged after and Blaze battled Baal before forcing him back into the portal. Blaze himself was injured in the fight, and the three children and the Wendigo followed Baal into the portal, leaving Blaze behind.]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -121.914597,48.876006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brother Nature</name>
+        <description><![CDATA[Captain America #336-337 (1987-1988) - In his civilian identity, Captain America battled Brother Nature (a former forest ranger who had quit when government interests sold vast tracts of virgin land to logging companies) after the latter caused an earthquake which dropped thr Captain's van into a chasm.  After Nature surrendered, The Captain was joined by the Falcon, D-Man, Nomad, and Vagabond; they rescued his van traveled south with him to the Portland airport.<br><br>Thunderbolts: Breaking Point (2008) - The Thunderbolts (Moonstone, Penance, Radioactive Man, Songbird, Swordsman/Strucker, Venom) attacked and forced the surrender of Brother Nature in an old-growth Washington state forest.]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -122.096901,46.553903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Evergreen Island - Stark House</name>
+        <description><![CDATA[Iron Man #11-31, 48; Iron Man: Bad Blood #1-3 (1998-2002) - Tony Stark's "Stark House" is a "smart house" on an Evergreen Island (fictional) in Lake Washington. The property included a helipad, boathouse, tennis courts, medical center, and state-of-the-art construction; Jocasta was an in-house AI for a while. Tony Stark lived here with Pepper Potts & Happy Hogan, but has since moved on.  Visitors included James Rhodes, Carol Danvers, Natasha Romanoff, and many others.  The house was seriously damaged by the sentient (Ultron-possessed) Iron Man armor, but was soon restored.]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -122.235947,47.606626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fin Fang Foom defeated by Iron Man</name>
+        <description>Iron Man #16-18 (1999) -  Iron Man and Fin Fang Foom fought downtown until the latter vanished. Foom returned soon thereafter and attacked the downtown Providence Medical Center, but Iron Man eventually defeated him over the Sound with the help of a Navy ship. Fin Fang Foom was loaded onto a Navy aircraft carrier.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -122.493439,47.558921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Interdefense</name>
+        <description><![CDATA[Alpha Flight #43 (1987) - Interdefense was a top secret Sebastian Shaw owned Sentinel-building facility.  It was embarassed when its Project Manager sent Sentinels into Canada, where they were defeate by Alpha Flight.  (Note: as its never appeared since, and as two top secret government facilities in the Okanogans seems a stretch, I'm theorizing that it and Mt. Haven were the same place - however, this is unconfirmed speculation.)]]></description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -120.871582,48.4251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mount Saint Cloud, WA</name>
+        <description><![CDATA[Captain America Annual #9 (1990) - In the Washington Cascades, Mount Saint Cloud (a fictional peak!) became volcanically active; Tony Stark's Project Persephone studied its lava. After a probe was damaged by the energy from a Terminii, Iron Man and the probe's crew (Dr. Rebecca Napier and Captain America) left.]]></description>
+        <styleUrl>#icon-619</styleUrl>
+        <Point>
+          <coordinates>
+            -120.423889,48.290503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mt. St. Helens</name>
+        <description><![CDATA[X-Men: First Class #13-14 (2008) - Lava Men were sighted near St. Helens, and driven off by the original X-Men (Beast, Cyclops, Iceman, Marvel Girl)  and the robotic X-50.<br><br>Marvel Team-Up I#121 (1981) - Magma (Jonathan Darque) claimed to have been responsible for causing an eruption of Mount St. Helens.<br><br>Avengers West Coast Annual #8 (1993) - Ultron and Alkhema had a seismic bomb placed on Mt. St. Helens as part of a plot to activate a dozen Pacific Rim volcanoes simultaneously. They confronted the Avengers (Iron Man, USAgent, Spider-Woman (Carpenter), Dr. Pym, Hawkeye, Living Lightning, Mockingbird, Scarlet Witch, Tigra, War Machine, Wasp) & Raptor there.]]></description>
+        <styleUrl>#icon-619</styleUrl>
+        <Point>
+          <coordinates>
+            -122.188568,46.205498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Northwestern State Prison</name>
+        <description>Strange Tales #74-75 (1960) - Escaped convicts from Northwestern State Prison encountered and threatened native Americans camped nearby; their leader activated the Living Totem, which went after both men.  It then rampaged until the chief rendered it inert; it fell into a river and was washed out downstream.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -118.357644,46.077681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rajaki ship</name>
+        <description>Iron Man III#24-25 (2000) - A Rajaki spaceship crashed to Earth in the year 1808 in eastern Washington state (slightly north and east of what would become Spokane). The ship departed Earth in Iron Man III#25.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -117.092285,47.762176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Site of William Stryker's prison transport crashed - X-Men investigated.]]></name>
+        <description>X-Treme X-Men #25-26 (2003) - Lady Deathstrike attempted to rescue Reverend William Stryker from a prison transport and the plane crashed here. The X-Men were accused of complicity in the attack; Storm, Bishop, Cannonball, Wolverine, and Sage investigated.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -116.173553,48.441045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wendigo sighted.</name>
+        <description>Sentry #2 (BTS) (2005) - The Wendigo was detected moving towards Bellevue.  The Sentry apparently intercepted it.</description>
+        <styleUrl>#icon-158</styleUrl>
+        <Point>
+          <coordinates>
+            -121.768684,47.667468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

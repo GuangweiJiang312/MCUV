@@ -1,0 +1,511 @@
+{ "alter_ego": {
+  "-L9JbddT9I5234YyMOz7": {
+    "id": "ironm",
+    "movie_involved": {
+      "av1": true,
+      "av2": true,
+      "av3": true,
+      "ca3": true,
+      "im1": true,
+      "im2": true,
+      "im3": true,
+      "sm1": true
+    },
+    "name": "Iron Man",
+    "origin_id": "tonys"
+  },
+  "-L9JbhPYaSYAAugPg7DK": {
+    "id": "capta",
+    "movie_involved": {
+      "av1": true,
+      "av2": true,
+      "av3": true,
+      "ca1": true,
+      "ca2": true,
+      "ca3": true
+    },
+    "name": "Captain America",
+    "origin_id": "stever"
+  },
+  "-L9JbmR5veAsJ2ymw5FT": {
+    "id": "hulk",
+    "movie_involved": {
+      "av1": true,
+      "av2": true,
+      "av3": true,
+      "hk1": true,
+      "th3": true
+    },
+    "name": "Hulk",
+    "origin_id": "bruceb"
+  },
+  "-L9JbtOi9yiar3bfhYp5": {
+    "id": "warm",
+    "movie_involved": {
+      "av2": true,
+      "av3": true,
+      "ca3": true,
+      "im2": true,
+      "im3": true
+    },
+    "name": "War Machine",
+    "origin_id": "rhody"
+  },
+  "-L9cxStHlsrAI9xXqBJz": {
+    "id": "ironmo",
+    "movie_involved": {
+      "im1": true
+    },
+    "name": "Iron Monger",
+    "origin_id": "obadiahs"
+  },
+  "-L9cxjgwQX-KgsezBeAN": {
+    "id": "mandarin",
+    "movie_involved": {
+      "im3": true
+    },
+    "name": "Mandarin",
+    "origin_id": "trevors"
+  },
+  "-L9cxxJBo3SxrZga-uK9": {
+    "id": "abomination",
+    "movie_involved": {
+      "hk1": true
+    },
+    "name": "Abomination",
+    "origin_id": "emilb"
+  },
+  "-L9cy8QNicah6Nn-2HMe": {
+    "id": "kurse",
+    "movie_involved": {
+      "th2": true
+    },
+    "name": "Kurse",
+    "origin_id": "algrim"
+  },
+  "-L9d2uXiGYCZWoOfZkRN": {
+    "id": "scrapper",
+    "movie_involved": {
+      "th3": true
+    },
+    "name": "Scrapper 142",
+    "origin_id": "valk"
+  },
+  "-L9d3FMkD5i_N20p5Oxn": {
+    "id": "winters",
+    "movie_involved": {
+      "ca2": true
+    },
+    "name": "Winter Soldier",
+    "origin_id": "bucky"
+  },
+  "-L9d3UrTE3L9YhdcWQky": {
+    "id": "reds",
+    "movie_involved": {
+      "ca1": true
+    },
+    "name": "Red Skull",
+    "origin_id": "johanns"
+  },
+  "-L9d3bIyHbdT4PRJsTsX": {
+    "id": "crossb",
+    "movie_involved": {
+      "ca3": true
+    },
+    "name": "Crossbones",
+    "origin_id": "brockr"
+  },
+  "-L9d3k91SxveTV07c3J-": {
+    "id": "blackp",
+    "movie_involved": {
+      "av3": true,
+      "bp1": true,
+      "ca3": true
+    },
+    "name": "Black Panther",
+    "origin_id": "tchalla"
+  },
+  "-L9d3soHDwTMhNbIISAA": {
+    "id": "starlord",
+    "movie_involved": {
+      "av3": true,
+      "gotg1": true,
+      "gotg2": true
+    },
+    "name": "Star-Lord",
+    "origin_id": "peterq"
+  },
+  "-L9d4E_hBjij_CnCCX1f": {
+    "id": "antman",
+    "movie_involved": {
+      "am1": true,
+      "av3": true,
+      "ca3": true
+    },
+    "name": "Ant-Man",
+    "origin_id": "scottl"
+  },
+  "-L9d4LEWi6SxG1Z-7iwk": {
+    "id": "yellowj",
+    "movie_involved": {
+      "am1": true
+    },
+    "name": "Yellowjacket",
+    "origin_id": "darrenc"
+  },
+  "-L9d4Qx_qevK14pvWR-U": {
+    "id": "spiderman",
+    "movie_involved": {
+      "av3": true,
+      "sm1": true
+    },
+    "name": "Spider-Man",
+    "origin_id": "peterp"
+  },
+  "-L9d4UWdxUSe5OXayTU_": {
+    "id": "vulture",
+    "movie_involved": {
+      "sm1": true
+    },
+    "name": "Vulture",
+    "origin_id": "adriant"
+  },
+  "-L9d4mRIWSeOodjBVLej": {
+    "id": "blackpk",
+    "movie_involved": {
+      "bp1": true
+    },
+    "name": "Black Panther (Killmonger)",
+    "origin_id": "erikk"
+  },
+  "-L9d5jnX3G1QfQz3aknq": {
+    "id": "howardsy",
+    "movie_involved": {
+      "ca1": true
+    },
+    "name": "Howard Stark (Young)",
+    "origin_id": "howardso"
+  },
+  "-L9d65l3Fz-wmQU6a2A0": {
+    "id": "antonvy",
+    "movie_involved": {
+      "tv": true
+    },
+    "name": "Anton Vanko (Young)",
+    "origin_id": "antonvo"
+  },
+  "-L9d6ECmPfnpZzhWTMVD": {
+    "id": "hulkg",
+    "movie_involved": {
+      "th3": true
+    },
+    "name": "Gladiator Hulk",
+    "origin_id": "bruceb"
+  },
+  "-L9d6cGanZwTKFrFcpkM": {
+    "id": "ultronp",
+    "movie_involved": {
+      "av2": true
+    },
+    "name": "Ultron Prime",
+    "origin_id": "ultronu"
+  },
+  "-L9d6f3Vbv36h8dhORPC": {
+    "id": "ultron1",
+    "movie_involved": {
+      "av2": true
+    },
+    "name": "Ultron Mk1",
+    "origin_id": "ultronu"
+  },
+  "-L9d6nZdWWRa7lhDInZL": {
+    "id": "thanosa",
+    "movie_involved": {
+      "av3": true,
+      "gotg1": true
+    },
+    "name": "Thanos",
+    "origin_id": "thanos"
+  },
+  "-L9d723HO2hodSPNmUx1": {
+    "id": "groott",
+    "movie_involved": {
+      "gotg2": true
+    },
+    "name": "Groot (Teen)",
+    "origin_id": "groota"
+  },
+  "-L9d76MSmxiUSNAP1GPd": {
+    "id": "grootb",
+    "movie_involved": {
+      "gotg2": true
+    },
+    "name": "Groot (Baby)",
+    "origin_id": "groota"
+  },
+  "-L9d7HNtTs3H9RC6YNIq": {
+    "id": "meredithqy",
+    "movie_involved": {
+      "gotg2": true
+    },
+    "name": "Meredith Quill (Young)",
+    "origin_id": "meredithq"
+  },
+  "-L9d7XTvDN4pAx9Q6BNY": {
+    "id": "tchakay",
+    "movie_involved": {
+      "bp1": true
+    },
+    "name": "T'Chaka (Young)",
+    "origin_id": "tchaka",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-L9d7b1fh9WIytvcBYY4": {
+    "id": "zuriy",
+    "movie_involved": {
+      "bp1": true
+    },
+    "name": "Zuri (Young)",
+    "origin_id": "zuri",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-L9d7lQSxBMqUBthrw9t": {
+    "id": "grootp",
+    "movie_involved": {
+      "gotg1": true
+    },
+    "name": "Groot (Potted)",
+    "origin_id": "groota"
+  },
+  "-LARwbBA2EEoQ5iC5grt": {
+    "id": "blackwca3",
+    "movie_involved": {
+      "ca3": true
+    },
+    "name": "Natasha Romanoff",
+    "origin_id": "blackw"
+  },
+  "-LARwnJBZqRUYfZ9BfWE": {
+    "id": "heimdallh",
+    "movie_involved": {
+      "th1": true,
+      "th2": true
+    },
+    "name": "Heimdall",
+    "origin_id": "heimdall"
+  },
+  "-LARx-O7ot0auxvqXFv9": {
+    "id": "thorlh",
+    "movie_involved": {
+      "av1": true,
+      "av2": true,
+      "th1": true,
+      "th2": true
+    },
+    "name": "Thor",
+    "origin_id": "thor"
+  },
+  "-LAuujXYpFmDYdO9GByZ": {
+    "id": "stanleeim1",
+    "movie_involved": {
+      "im1": true
+    },
+    "name": "Stan Lee (as Hugh Hefner)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuuolBqNe-aWP7nNm2": {
+    "id": "stanleehk1",
+    "movie_involved": {
+      "hk1": true
+    },
+    "name": "Stan Lee (as Poisoned Old Man)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuusFl_61mUdkZmYrF": {
+    "id": "stanleeim2",
+    "movie_involved": {
+      "im2": true
+    },
+    "name": "Stan Lee (as Larry King)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuuv5YHL3w8hG3jijS": {
+    "id": "stanleeth1",
+    "movie_involved": {
+      "th1": true
+    },
+    "name": "Stan Lee (as Trucker)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuuysCgPbQ6AO1cW5w": {
+    "id": "stanleeca1",
+    "movie_involved": {
+      "ca1": true
+    },
+    "name": "Stan Lee (as WWII General)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuv3wao8DEfSxGwj4x": {
+    "id": "stanleeav1",
+    "movie_involved": {
+      "av1": true
+    },
+    "name": "Stan Lee (as Chess Player Interviewee)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuv8YLReov4EKb6Wku": {
+    "id": "stanleeim3",
+    "movie_involved": {
+      "im3": true
+    },
+    "name": "Stan Lee (as Contest Judge)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvC0qYv-3qwxNuDTE": {
+    "id": "stanleeth2",
+    "movie_involved": {
+      "th2": true
+    },
+    "name": "Stan Lee (as Asylum Patient)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvFhXalhwxHAz09hP": {
+    "id": "stanleeca2",
+    "movie_involved": {
+      "ca2": true
+    },
+    "name": "Stan Lee (as Security Guard)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvN5cbTLDR46LQb3Y": {
+    "id": "stanleegotg1",
+    "movie_involved": {
+      "gotg1": true
+    },
+    "name": "Stan Lee (as Pervy Old Man)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvQa100jvPSe2xNQ_": {
+    "id": "stanleeav2",
+    "movie_involved": {
+      "av2": true
+    },
+    "name": "Stan Lee (as WWII Veteran)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvU0IYjY57u1UtmDt": {
+    "id": "stanleeam1",
+    "movie_involved": {
+      "am1": true
+    },
+    "name": "Stan Lee (as Bartender)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvYqXI3QWuR6myt1L": {
+    "id": "stanleeca3",
+    "movie_involved": {
+      "ca3": true
+    },
+    "name": "Stan Lee (as Fed-Ex Deliveryman)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvbdFsrAvil9Bn_zA": {
+    "id": "stanleeds1",
+    "movie_involved": {
+      "ds1": true
+    },
+    "name": "Stan Lee (as Bus Passenger)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvik1f9Q9qu_Nm330": {
+    "id": "stanleegotg2",
+    "movie_involved": {
+      "gotg2": true
+    },
+    "name": "Stan Lee (as Watcher Informant)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvmrZvsIDg7Br0EG0": {
+    "id": "stanleesm1",
+    "movie_involved": {
+      "sm1": true
+    },
+    "name": "Stan Lee (as Annoyed Neighbour)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvq7mqJrbN5ugp0vW": {
+    "id": "stanleeth3",
+    "movie_involved": {
+      "th3": true
+    },
+    "name": "Stan Lee (as Space Barber)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  },
+  "-LAuvscWSX45YH3A9Uz2": {
+    "id": "stanleebp1",
+    "movie_involved": {
+      "bp1": true
+    },
+    "name": "Stan Lee (as Gambler)",
+    "origin_id": "stanlee",
+    "screenshot": {
+      "no": true
+    }
+  }
+}
+}

@@ -1,0 +1,203 @@
+{"movies": {
+  "-L9InwRewbD-X6KJRdys": {
+    "group_id": "im",
+    "group_name": "IRON MAN",
+    "id": "im1",
+    "index": "0",
+    "name": "Iron Man",
+    "phase": "1",
+    "released": "yes",
+    "year": "2008"
+  },
+  "-L9IrL8yUsSFrFDYA8qC": {
+    "group_id": "hk",
+    "group_name": "HULK",
+    "id": "hk1",
+    "index": "1",
+    "name": "The Incredible Hulk",
+    "phase": "1",
+    "released": "yes",
+    "year": "2008"
+  },
+  "-L9IrSOtYs_DVaIr77NF": {
+    "group_id": "im",
+    "group_name": "IRON MAN",
+    "id": "im2",
+    "index": "2",
+    "name": "Iron Man 2",
+    "phase": "1",
+    "released": "yes",
+    "year": "2010"
+  },
+  "-L9Ir_dPwExaM5_RAEiv": {
+    "group_id": "th",
+    "group_name": "THOR",
+    "id": "th1",
+    "index": "3",
+    "name": "Thor",
+    "phase": "1",
+    "released": "yes",
+    "year": "2011"
+  },
+  "-L9IrgMaTEIhH-GiVrEZ": {
+    "group_id": "ca",
+    "group_name": "CAPTAIN AMERICA",
+    "id": "ca1",
+    "index": "4",
+    "name": "Captain America: The First Avenger",
+    "phase": "1",
+    "released": "yes",
+    "year": "2011"
+  },
+  "-L9Irn2O_FKbRdx2yUw4": {
+    "group_id": "av",
+    "group_name": "AVENGER",
+    "id": "av1",
+    "index": "5",
+    "name": "Marvel's The Avengers",
+    "phase": "1",
+    "released": "yes",
+    "year": "2012"
+  },
+  "-L9IrtPjv4d-Fnc6X69L": {
+    "group_id": "im",
+    "group_name": "IRON MAN",
+    "id": "im3",
+    "index": "6",
+    "name": "Iron Man 3",
+    "phase": "2",
+    "released": "yes",
+    "year": "2013"
+  },
+  "-L9Iryh6cA8imrodTxvU": {
+    "group_id": "th",
+    "group_name": "THOR",
+    "id": "th2",
+    "index": "7",
+    "name": "Thor: The Dark World",
+    "phase": "2",
+    "released": "yes",
+    "year": "2013"
+  },
+  "-L9Is1zJiRfcVHVgsHMa": {
+    "group_id": "ca",
+    "group_name": "CAPTAIN AMERICA",
+    "id": "ca2",
+    "index": "8",
+    "name": "Captain America: The Winter Soldier",
+    "phase": "2",
+    "released": "yes",
+    "year": "2014"
+  },
+  "-L9Is74Qcy7QdUTaWllL": {
+    "group_id": "gotg",
+    "group_name": "GUARDIANS OF THE GALAXY",
+    "id": "gotg1",
+    "index": "9",
+    "name": "Guardians Of The Galaxy",
+    "phase": "2",
+    "released": "yes",
+    "year": "2014"
+  },
+  "-L9IsBiSXF9RjSKX2tj5": {
+    "group_id": "av",
+    "group_name": "AVENGER",
+    "id": "av2",
+    "index": "10",
+    "name": "Avengers: Age Of Ultron",
+    "phase": "2",
+    "released": "yes",
+    "year": "2015"
+  },
+  "-L9IsIUTjy_ZEaVXRexm": {
+    "group_id": "am",
+    "group_name": "ANT MAN",
+    "id": "am1",
+    "index": "11",
+    "name": "Ant-Man",
+    "phase": "2",
+    "released": "yes",
+    "year": "2015"
+  },
+  "-L9IsSdyiLwT33cVsm6f": {
+    "group_id": "ca",
+    "group_name": "CAPTAIN AMERICA",
+    "id": "ca3",
+    "index": "12",
+    "name": "Captain America: Civil War",
+    "phase": "3",
+    "released": "yes",
+    "year": "2016"
+  },
+  "-L9IsX_UhfA9C8M2CuU0": {
+    "group_id": "ds",
+    "group_name": "DOCTOR STRANGE",
+    "id": "ds1",
+    "index": "13",
+    "name": "Doctor Strange",
+    "phase": "3",
+    "released": "yes",
+    "year": "2016"
+  },
+  "-L9IsbCg4aDHcbFXvKtC": {
+    "group_id": "gotg",
+    "group_name": "GUARDIANS OF THE GALAXY",
+    "id": "gotg2",
+    "index": "14",
+    "name": "Guardians Of The Galaxy Vol. 2",
+    "phase": "3",
+    "released": "yes",
+    "year": "2017"
+  },
+  "-L9Isg-sEVLhLyCNdtIn": {
+    "group_id": "sm",
+    "group_name": "SPIDERMAN",
+    "id": "sm1",
+    "index": "15",
+    "name": "Spider-Man: Homecoming",
+    "phase": "3",
+    "released": "yes",
+    "year": "2017"
+  },
+  "-L9Isl_9IP1YslNrxO4l": {
+    "group_id": "th",
+    "group_name": "THOR",
+    "id": "th3",
+    "index": "16",
+    "name": "Thor: Ragnarok",
+    "phase": "3",
+    "released": "yes",
+    "year": "2017"
+  },
+  "-L9Isr2du6xvTbqxM88f": {
+    "group_id": "bp",
+    "group_name": "BLACK PANTHER",
+    "id": "bp1",
+    "index": "17",
+    "name": "Black Panther",
+    "phase": "3",
+    "released": "yes",
+    "year": "2018"
+  },
+  "-L9c_U_5PTN2yNZrCKO2": {
+    "group_id": "av",
+    "group_name": "AVENGER",
+    "id": "av3",
+    "index": "18",
+    "name": "Avengers: Infinity War",
+    "phase": "3",
+    "released": "no",
+    "year": "2018"
+  },
+  "-LAHcCmSDlfiNAr_liRC": {
+    "group_id": "none",
+    "group_name": "none",
+    "id": "none",
+    "index": "-1",
+    "name": "None",
+    "phase": "-1",
+    "released": "no",
+    "year": "1900"
+  }
+}
+}

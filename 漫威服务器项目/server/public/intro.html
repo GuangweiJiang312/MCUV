@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>漫威api</title>
+    <style>
+        .main{
+            margin-left: 100px;
+        }
+    </style>
+</head>
+<body>
+<div class="main">
+    <h2>漫威api</h2>
+    <p>仅支持get请求</p>
+    <p>服务器地址：106.52.187.27:8088</p>
+
+    <h3><a href="http://106.52.187.27:8088/api">/api</a></h3>
+    <p>接口文档</p>
+
+    <h3><a href="http://106.52.187.27:8088/api/profile">/api/profile</a></h3>
+    <p>漫威人物简介信息，不携带参数默认返回所有信息</p>
+    <div>
+        可选参数：
+        <ul>
+            <li>id</li>
+            <li>alias</li>
+            <li>full_name</li>
+            <li>played_by</li>
+            <li>type</li>
+        </ul>
+    </div>
+
+    <h3><a href="http://106.52.187.27:8088/api/description">/api/description</a></h3>
+    <p>漫威人物描述信息，不携带参数默认返回所有信息</p>
+    <div>
+        可选参数：
+        <ul>
+            <li>id</li>
+        </ul>
+    </div>
+
+    <h3><a href="http://106.52.187.27:8088/api/alterego">/api/alterego</a></h3>
+    <p>漫威人物信息，不携带参数默认返回所有信息</p>
+    <div>
+        可选参数：
+        <ul>
+            <li>id</li>
+            <li>name</li>
+            <li>origin_id</li>
+        </ul>
+    </div>
+
+    <h3><a href="http://106.52.187.27:8088/api/movie">/api/movie</a></h3>
+    <p>漫威电影信息，不携带参数默认返回所有信息</p>
+    <div>
+        可选参数：
+        <ul>
+            <li>group_id</li>
+            <li>group_name</li>
+            <li>id</li>
+            <li>name</li>
+            <li>year</li>
+        </ul>
+    </div>
+
+    <h3><a href="http://106.52.187.27:8088/api/relationship">/api/relationship</a></h3>
+    <p>漫威人物关系信息，不携带参数默认返回所有信息</p>
+    <div>
+        可选参数：
+        <ul>
+            <li>id</li>
+            <li>target_id</li>
+        </ul>
+    </div>
+</div>
+</body>
+</html>
